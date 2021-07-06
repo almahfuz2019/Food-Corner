@@ -2,7 +2,7 @@ body{
     font-family: 'Poppins', sans-serif;
     margin: 0;
 }
-.fast-full-page{
+.first-full-page{
     display: flex;
     width: 100%;
     margin-bottom: 100px;
@@ -14,7 +14,7 @@ body{
     
 }
 .first-page-text h1{
-    font-size:50px;
+    font-size:40px;
     font-weight:900;
     color: rgba(0, 0, 0, 0.623);
     font-family: 'Montserrat', sans-serif;
@@ -55,19 +55,19 @@ body{
     width: 50%;
     margin: 152px 0px 0px 160px;
 }
-.thirdpage-card{
+.thirdpageall-card{
     display: flex;
     width: 100%;
     
 }
 
-.third-p-card img{
+.third-page-card img{
     width: 100%;
     
     
     
 }
-.third-p-card{
+.third-page-card{
     font-family: 'Montserrat', sans-serif;
    
     padding: 15px;
@@ -98,10 +98,10 @@ body{
     
 
 }
-.third-p-last-part{
+.third-page-last-part{
     margin: 100px;
 }
-.youtube{
+.social-media{
     margin: 0px 0px;
     padding: 10px 50px;
     width: 100%;
@@ -109,11 +109,11 @@ body{
    
     
 }
-.youtube:hover{
+.social-media:hover{
     border-bottom: 0px solid rgba(0, 0, 0, 0.281);
 
 }
-.youtube h1{
+.social-media h1{
     font-weight: 900;
     font-size: 30px;
     font-family: 'Montserrat', sans-serif;
