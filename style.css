@@ -1,0 +1,152 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+.fast-full-page{
+    display: flex;
+    width: 100%;
+    margin-bottom: 100px;
+}
+.first-page-text{
+    
+    width: 100%;
+    padding: 170px 0px 0px 100px;
+    
+}
+.first-page-text h1{
+    font-size:50px;
+    font-weight:900;
+    color: rgba(0, 0, 0, 0.623);
+    font-family: 'Montserrat', sans-serif;
+    
+}
+.first-page-text a{
+    text-decoration:none;
+    font-size:18px;
+    padding: 18px 45px;
+    border-radius: 30px;
+    color: white;
+    
+      background-image:linear-gradient(orange,tomato)
+}
+.first-page-text p{
+    color: rgba(0, 0, 0, 0.582);
+    margin:0px 0px 60px 0px ;
+}
+.first-page-image{
+    width: 100%;
+    
+}
+.first-page-image img{
+    width: 99%;
+}
+.second-full-page{
+    background-image: url(images/shapes/7.png);
+    width: 100%;
+    background-repeat: no-repeat;
+    display: flex;
+
+}
+.second-page-image{
+    width: 100%;
+
+}
+.second-page-image img{
+    width: 50%;
+    margin: 152px 0px 0px 160px;
+}
+.thirdpage-card{
+    display: flex;
+    width: 100%;
+    
+}
+
+.third-p-card img{
+    width: 100%;
+    
+    
+    
+}
+.third-p-card{
+    font-family: 'Montserrat', sans-serif;
+   
+    padding: 15px;
+    border-radius: 20px;
+    box-shadow: 0px 0px 20px 0px #05050567;
+    margin: 20px 60px;
+    
+    
+   
+}
+.third-full-page{
+    width: 100%;
+    background-image: linear-gradient(white,rgba(17, 11, 11, 0.041));
+    justify-content: center;
+    margin: 70px 0px;
+}
+.delaits{
+    display: flex;
+    box-shadow: 0px 0px 20px 0px #05050567;
+    width: 100%;
+  
+    justify-content:center;
+    border-radius: 10px;
+    
+
+
+
+    
+
+}
+.third-p-last-part{
+    margin: 100px;
+}
+.youtube{
+    margin: 0px 0px;
+    padding: 10px 50px;
+    width: 100%;
+    text-align: center;
+   
+    
+}
+.youtube:hover{
+    border-bottom: 0px solid rgba(0, 0, 0, 0.281);
+
+}
+.youtube h1{
+    font-weight: 900;
+    font-size: 30px;
+    font-family: 'Montserrat', sans-serif;
+   
+}
+
+.third-p-heading p{
+    margin-bottom: 50px;
+    text-align: center;
+    color: rgba(0, 0, 0, 0.966);
+}
+.third-p-heading h1{
+    
+    font-size:50px;
+    font-family: 'Montserrat', sans-serif;
+   
+    font-weight:900;
+    text-align: center;
+    color: rgba(0, 0, 0, 0.623);
+    font-family: 'Montserrat', sans-serif;
+}
+
+.foter{
+    background-color: black;
+    padding: 1px 0px 60px 0px  ;
+}
+.foter h2{
+    color: rgba(255, 255, 255, 0.356);
+    text-align: center;
+}
+.foter p{
+
+    text-align: center;
+    color: rgba(255, 255, 255, 0.897);
+    font-weight:100;
+}
